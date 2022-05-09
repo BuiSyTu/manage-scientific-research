@@ -1,1 +1,1 @@
-Chương trình quản lý đề tài nghiên cứu khoa học (Project 1)
+Chương trình quản lý đề tài nghiên cứu khoa học
